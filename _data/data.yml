@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ajay Ratnu
-    tagline: PGPML from IIIT & LJMU
+    tagline: MS in AI & ML from IIIT & LJMU
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,7 +17,7 @@ sidebar:
     timezone: India Timezone
     citizenship:
     website: blog.dummy.com #do not add http://
-    linkedin: https://www.linkedin.com/in/ajay-ratnu-36554216/
+    linkedin: ajay-ratnu-36554216
     github: ajayantrix
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -42,7 +42,7 @@ sidebar:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Base Jumping
         link:
 
       - item: Reading
@@ -51,8 +51,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A Data Analytics /Science professional with over 15 years across Banking,
-      Insurance, Finacial Services, Pharma & Healthcare experience.
+      A Data Analytics/Science professional with over 15 years across Banking,
+      Insurance, Financial Services, Pharma & Healthcare domain experience.
       
 education:
     - degree: B Technology Electrical Engineering
@@ -72,19 +72,34 @@ experiences:
           - Fraud & Claims Analysis
           - Loss & recovery performace reporting
     - role: Manager
-      time: Mar, 2019 - Present
+      time: Mar, 2019 - Jan, 2022
       company: Bank Of America
       details: |
         Part of the Enterprise Fraud team.
           - Fraud & Claims Analysis
           - Loss & recovery performace reporting
     - role:  Assistant Manager
-      time: May, 2011 - Present
+      time: May, 2011 - Feb, 2019
       company: Bank Of America
       details: |
         Part of the Campaign Analytics Team.
           - Deposits
           - Legal & Servicing
+    - role:  Senior Business Analyst
+      time: Feb, 2010 - May, 2011
+      company: Evalueserve
+      details: |
+        Part of the Data Analytics team
+          - Across domains & industry
+          - Reporting 7 Data Mining support
+    - role:  Assistant Systems Engineer
+      time: Sep, 2006 - Jan, 2010
+      company: Tata Consultancy Services
+      details: |
+        Clinical Statistical Research for some of the or larges pharma corporations
+          - Advanced SAS
+          - SAS Macros
+          - ETL, CDISC Standardization
 projects:
     title: Projects
     intro: >
